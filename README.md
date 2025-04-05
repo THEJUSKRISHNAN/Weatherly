@@ -25,7 +25,7 @@ A simple and responsive Weather App built with **React** and **Tailwind CSS**. T
 git clone https://github.com/THEJUSKRISHNAN/weather.git
 
 # Navigate into the project directory
-cd weather-app
+cd weather
 
 # Install dependencies
 npm install
