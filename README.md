@@ -22,7 +22,7 @@ A simple and responsive Weather App built with **React** and **Tailwind CSS**. T
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/THEJUSKRISHNAN/weather.git
 
 # Navigate into the project directory
 cd weather-app
