@@ -40,8 +40,8 @@ Replace the value of `API_KEY` with your Weather API key
 ---
 
 
-## Chatify Preview
+## Weatherly Preview
 ---
-![MovieMate Preview](https://res.cloudinary.com/dgzkgmldz/image/upload/v1745689794/Screenshot_2025-04-26_231252_vvysk0.png)
+![Weatherly Preview](https://res.cloudinary.com/dgzkgmldz/image/upload/v1745689794/Screenshot_2025-04-26_231252_vvysk0.png)
 
 
