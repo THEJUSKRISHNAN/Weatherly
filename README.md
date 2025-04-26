@@ -1,5 +1,4 @@
-
-# 🌤️ Weather App
+# 🌤️ Weatherly
 
 A simple and responsive Weather App built with **React** and **Tailwind CSS**. This application allows users to get the current weather and a forecast for the next 8 hours for any city in the world, powered by the **OpenWeatherMap API**.
 
@@ -22,14 +21,27 @@ A simple and responsive Weather App built with **React** and **Tailwind CSS**. T
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/THEJUSKRISHNAN/Weatherly.git
 
 # Navigate into the project directory
-cd weather-app
+cd weatherly
 
 # Install dependencies
 npm install
 
 # Start the development server
 npm run dev
+
+#Add your Weather API key
+Open src/App.jsx
+Replace the value of `API_KEY` with your Weather API key
+```
+
+---
+
+
+## Chatify Preview
+---
+![MovieMate Preview](https://res.cloudinary.com/dgzkgmldz/image/upload/v1745689794/Screenshot_2025-04-26_231252_vvysk0.png)
+
 

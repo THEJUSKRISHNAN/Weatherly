@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API_KEY = "649d539756f34de625d748d76c979f47";
+const API_KEY = "";
 
 const App = () => {
   const [city, setCity] = useState("");
@@ -50,7 +50,7 @@ const App = () => {
   return (
     <div className="flex justify-center items-center min-h-screen bg-gray-100 px-4">
       <div className="p-4 sm:p-6 bg-gray-300 rounded-lg shadow-lg w-full max-w-md text-center min-h-[40rem]">
-        <h1 className="text-3xl sm:text-4xl font-bold mb-4">🌤️ Weather App</h1>
+        <h1 className="text-3xl sm:text-4xl font-bold mb-4">🌤️ Weatherly</h1>
         <div className="flex flex-col sm:flex-row items-center gap-3 justify-center mb-4">
           <input
             type="text"
