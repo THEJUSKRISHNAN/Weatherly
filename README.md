@@ -28,6 +28,7 @@ cd weatherly
 
 # Install dependencies
 npm install
+
 #Add your Weather API key
 Open src/App.jsx
 Replace the value of `API_KEY` with your Weather API key
